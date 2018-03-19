@@ -1,34 +1,35 @@
-<firstname> <lastname>
+Jazzlyn Pulley
 CSCI 305
 Spring 2018
 Lab Questions
 =======================
-1.
+1. You get the output: val it = [4,2,5,2,6,10] : int list
 
-2.
+2. The function f iterates through every item in an array and adds 1
 
-3.
+3. This line defines the function name and parameters
 
-4.
+4. This line is where the iteration and addition happens
 
-5.
+5. - isMember "one" ["1","2","3","4"]);
+   val it = false : bool
 
-6.
+6. Tail recursion
 
-7.
+7. Set ("it",Set ("was",Set ("the",Set ("best",Set ("of",Set ("times,",Set ("worst",Set ("times", Empty))))))))
 
-8.
+8. Some programs use tail recursion for a few beneficial reasons.  One is that you perform all the calculations before the recursive call, so the return value of any step is the same as the value for the next recursive call.
 
-9.
+9. Set ("and", Set ("eggs", Set ("green", Set ("ham", Empty))))
 
-10.
+10. Set ("and", Set ("macaroni", Empty))
 
-11.
+11. I like being able to create functions from the command line	
 
-12.
+12. I do not like the syntax
 
-13.
+13. I liked the problem solving of creating our own datatype.
 
-14.
+14. I spent approx. 4+ hours on this lab
 
-15.
+15. If I were to use ML again, it would be for simple functions and datatypes.
